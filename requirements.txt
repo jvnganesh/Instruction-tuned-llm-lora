@@ -1,0 +1,7 @@
+streamlit
+gradio
+torch
+transformers
+peft
+datasets
+accelerate

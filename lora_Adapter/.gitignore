@@ -1,0 +1,9 @@
+# Ignore large model weights
+Distilgpt2 weights/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Logs
+*.log
